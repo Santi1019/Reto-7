@@ -103,7 +103,7 @@ def es_primo(i):
         if i % a == 0 and i!= a:
             return False
     return True
-```
+
 
 i: int = 2
 while i <= 100:
